@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   + Enhanced enterprise management accuracy and transparency
 
 * Data Science Intern | EKMAP (May 2024 - Aug 2024)
- + Collected and analyzed data using Selenium and Pandas
- + Optimized data collection processes, reducing processing time by 10%
- + Researched AI-based solutions for accessibility prediction using coordinate data
+  + Collected and analyzed data using Selenium and Pandas
+  + Optimized data collection processes, reducing processing time by 10%
+  + Researched AI-based solutions for accessibility prediction using coordinate data
 
 * Data Science Intern | AI Lab - Thang Long University (Feb 2024 - Apr 2024)
   + Automated data crawling and preprocessing using BeautifulSoup and Selenium
@@ -33,7 +33,8 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 
 🛠️ Technical Skills
 Programming Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+- ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![alt text](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
