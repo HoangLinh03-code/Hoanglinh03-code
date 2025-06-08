@@ -90,26 +90,26 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
  ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
 
 🌟 Soft Skills <br />
-   💬 Communication: Excellent verbal and written communication <br />
-   🤝 Teamwork: Collaborative approach to problem-solving <br />
-   🧠 Flexible Thinking: Adaptable to changing requirements <br />
-   🔧 Problem Solving: Strong analytical and debugging skills 
+     💬 Communication: Excellent verbal and written communication <br />
+     🤝 Teamwork: Collaborative approach to problem-solving <br />
+     🧠 Flexible Thinking: Adaptable to changing requirements <br />
+     🔧 Problem Solving: Strong analytical and debugging skills 
     
 🎯 Interests & Hobbies
 
 Beyond coding, I enjoy: <br />
-   ♟️ Chess: Sharpening problem-solving skills <br />
-   📚 Tech Blogs: Staying updated on AI and Data Science trends <br />
-   🎬 Sci-Fi Movies: Exploring futuristic concepts for project inspiration <br />
-   🏆 Hackathons: Participating in coding challenges and competitions <br />
-   📖 Continuous Learning: Always exploring new technologies and methodologies
+    ♟️ Chess: Sharpening problem-solving skills <br />
+    📚 Tech Blogs: Staying updated on AI and Data Science trends <br />
+    🎬 Sci-Fi Movies: Exploring futuristic concepts for project inspiration <br />
+    🏆 Hackathons: Participating in coding challenges and competitions <br />
+    📖 Continuous Learning: Always exploring new technologies and methodologies
 
 📈 Current Focus <br />
-   🔍 Advanced Machine Learning techniques <br />
-   🧠 Deep Learning and Neural Networks <br />
-   🗣️ Natural Language Processing <br />
-   ☁️ Cloud Computing and Scalable Architecture <br />
-   🔄 MLOps and AI Engineering <br />
+    🔍 Advanced Machine Learning techniques <br />
+    🧠 Deep Learning and Neural Networks <br />
+    🗣️ Natural Language Processing <br />
+    ☁️ Cloud Computing and Scalable Architecture <br />
+    🔄 MLOps and AI Engineering <br />
 
 🤝 Let's Connect!
 I'm always open to collaboration, learning opportunities, and interesting projects. Feel free to reach out!
