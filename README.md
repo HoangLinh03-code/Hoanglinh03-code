@@ -86,8 +86,8 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 
 📊 GitHub Stats
 
-![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical)
-![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
+- ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical)
+- ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
 
 🌟 Soft Skills
 
@@ -98,6 +98,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 
 🎯 Interests & Hobbies
 Beyond coding, I enjoy:
+
   -♟️ Chess: Sharpening problem-solving skills
   -📚 Tech Blogs: Staying updated on AI and Data Science trends
   -🎬 Sci-Fi Movies: Exploring futuristic concepts for project inspiration
@@ -105,6 +106,7 @@ Beyond coding, I enjoy:
   -📖 Continuous Learning: Always exploring new technologies and methodologies
 
 📈 Current Focus
+
   - 🔍 Advanced Machine Learning techniques
   - 🧠 Deep Learning and Neural Networks
   - 🗣️ Natural Language Processing
