@@ -86,32 +86,30 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 
 📊 GitHub Stats
 
-- ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical)
-- ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
+ ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical) <br />
+ ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
 
 🌟 Soft Skills
-
-  - 💬 Communication: Excellent verbal and written communication
-  - 🤝 Teamwork: Collaborative approach to problem-solving
-  - 🧠 Flexible Thinking: Adaptable to changing requirements
-  - 🔧 Problem Solving: Strong analytical and debugging skills
-
+   💬 Communication: Excellent verbal and written communication <br />
+   🤝 Teamwork: Collaborative approach to problem-solving <br />
+   🧠 Flexible Thinking: Adaptable to changing requirements <br />
+   🔧 Problem Solving: Strong analytical and debugging skills 
+    
 🎯 Interests & Hobbies
-Beyond coding, I enjoy:
 
-  -♟️ Chess: Sharpening problem-solving skills
-  -📚 Tech Blogs: Staying updated on AI and Data Science trends
-  -🎬 Sci-Fi Movies: Exploring futuristic concepts for project inspiration
-  -🏆 Hackathons: Participating in coding challenges and competitions
-  -📖 Continuous Learning: Always exploring new technologies and methodologies
+Beyond coding, I enjoy:
+   ♟️ Chess: Sharpening problem-solving skills <br />
+   📚 Tech Blogs: Staying updated on AI and Data Science trends <br />
+   🎬 Sci-Fi Movies: Exploring futuristic concepts for project inspiration <br />
+   🏆 Hackathons: Participating in coding challenges and competitions <br />
+   📖 Continuous Learning: Always exploring new technologies and methodologies
 
 📈 Current Focus
-
-  - 🔍 Advanced Machine Learning techniques
-  - 🧠 Deep Learning and Neural Networks
-  - 🗣️ Natural Language Processing
-  - ☁️ Cloud Computing and Scalable Architecture
-  - 🔄 MLOps and AI Engineering
+   🔍 Advanced Machine Learning techniques <br />
+   🧠 Deep Learning and Neural Networks <br />
+   🗣️ Natural Language Processing <br />
+   ☁️ Cloud Computing and Scalable Architecture <br />
+   🔄 MLOps and AI Engineering <br />
 
 🤝 Let's Connect!
 I'm always open to collaboration, learning opportunities, and interesting projects. Feel free to reach out!
