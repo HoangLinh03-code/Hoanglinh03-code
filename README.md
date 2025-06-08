@@ -1,9 +1,9 @@
 Hi there! 👋 I'm Hoàng Đức Linh
 
-#🚀 Backend Developer | AI Enthusiast | Data Science Specialist
+# 🚀 Backend Developer | AI Enthusiast | Data Science Specialist
 Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong focus on Python development, data analysis, machine learning, and AI-driven solutions.
 
-#🎯 About Me
+# 🎯 About Me
   + Education: Artificial Intelligence student at Thang Long University (2021-2025) with GPA 3.2
   + Certificate of Excellence recipient
   + Languages: English (C1 Advanced - EF SET certified)
@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   + Contact: hoanglinhpm16@gmail.com
   + Phone: 0974948130
 
-#🎯 Goals
+# 🎯 Goals
 - Near-term: Deepening expertise in Python development, focusing on data analysis, machine learning, deep learning, NLP, and backend development.
 - Long-term: Specializing as a Python developer in Data Science, Data Engineering, and AI, leveraging advanced techniques to drive data-driven solutions and innovative applications.
 
-#💼 Professional Experience
+# 💼 Professional Experience
 
 * Python/Odoo Developer | DTH Group (Dec 2024 - May 2025)
   + Developed and optimized Odoo Sales and Payroll Modules
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   + Developed machine learning models achieving 80% accuracy in predictive analytics
   + Specialized in Random Forest Regressor for import quantity prediction
 
-#🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 * Programming Languages
   - ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   - ![alt_text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   - ![alt_text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#🚀 Featured Projects
+# 🚀 Featured Projects
 
 🤖 Facial Recognition with YOLOv10 & FaceNet
 
@@ -84,19 +84,18 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   - Role: Python/Odoo Developer
   - Features: Sales workflow optimization, HR integration, real-time data processing
 
-#📊 GitHub Stats
+# 📊 GitHub Stats
 
  ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical) <br />
  ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
 
-#🌟 Soft Skills <br />
+# 🌟 Soft Skills <br />
      💬 Communication: Excellent verbal and written communication <br />
      🤝 Teamwork: Collaborative approach to problem-solving <br />
      🧠 Flexible Thinking: Adaptable to changing requirements <br />
      🔧 Problem Solving: Strong analytical and debugging skills 
     
-#🎯 Interests & Hobbies
-
+# 🎯 Interests & Hobbies
 Beyond coding, I enjoy: <br />
     ♟️ Chess: Sharpening problem-solving skills <br />
     📚 Tech Blogs: Staying updated on AI and Data Science trends <br />
@@ -104,7 +103,7 @@ Beyond coding, I enjoy: <br />
     🏆 Hackathons: Participating in coding challenges and competitions <br />
     📖 Continuous Learning: Always exploring new technologies and methodologies
 
-#📈 Current Focus <br />
+# 📈 Current Focus <br />
     🔍 Advanced Machine Learning techniques <br />
     🧠 Deep Learning and Neural Networks <br />
     🗣️ Natural Language Processing <br />
