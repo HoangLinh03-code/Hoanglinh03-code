@@ -6,9 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 # 🎯 About Me
   🎓 Education: Artificial Intelligence student at Thang Long University (2021-2025) with GPA 3.2\
   🌟 Certificate of Excellence recipient\
-  🗣️ Languages: \
-      + English (C1 Advanced - EF SET certified)
-      + English (TOEIC 815 - Reading & Listening)
+  🗣️ Languages: English (C1 Advanced - EF SET & TOEIC 815)\
   📍 Location: Hanoi, Vietnam\
   📧 Contact: hoanglinhpm16@gmail.com\
   📱 Phone: 0974948130\
