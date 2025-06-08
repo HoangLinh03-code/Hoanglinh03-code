@@ -4,12 +4,14 @@ Hi there! 👋 I'm Hoàng Đức Linh
 Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong focus on Python development, data analysis, machine learning, and AI-driven solutions.
 
 # 🎯 About Me
-  + Education: Artificial Intelligence student at Thang Long University (2021-2025) with GPA 3.2
-  + Certificate of Excellence recipient
-  + Languages: English (C1 Advanced - EF SET certified)
-  + Location: Hanoi, Vietnam
-  + Contact: hoanglinhpm16@gmail.com
-  + Phone: 0974948130
+  🎓 Education: Artificial Intelligence student at Thang Long University (2021-2025) with GPA 3.2
+  🌟 Certificate of Excellence recipient
+  🗣️ Languages:
+      + English (C1 Advanced - EF SET certified)
+      + English (TOEIC 815 - Reading & Listening)
+  📍 Location: Hanoi, Vietnam
+  📧 Contact: hoanglinhpm16@gmail.com
+  📱 Phone: 0974948130
 
 # 🎯 Goals
 - Near-term: Deepening expertise in Python development, focusing on data analysis, machine learning, deep learning, NLP, and backend development.
