@@ -60,26 +60,22 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 
 # 🚀 Featured Projects
 
-🤖 Facial Recognition with YOLOv10 & FaceNet
-
+🤖 Facial Recognition with YOLOv10 & FaceNet\
   - Tech Stack: Python, Ultralytics, Wandb, OpenCV
   - Achievement: 79% accuracy in real-time facial recognition
   - Features: Low latency, real-time processing, performance monitoring
 
-📊 Mother & Baby Market Analysis
-
+📊 Mother & Baby Market Analysis\
   - Tech Stack: Python, Pandas, Matplotlib, Scikit-learn, Selenium
   - Achievement: 80% accuracy in demand forecasting
   - Impact: Strategic recommendations for store expansion and inventory optimization
 
-🎓 High School Grading System
-
+🎓 High School Grading System\
   - Tech Stack: Python, Imutils, Tkinter
   - Achievement: 30% improvement in grading speed
   - Impact: Reduced student wait times and enhanced satisfaction
 
-💼 TOP SIM - Enterprise Management System
-
+💼 TOP SIM - Enterprise Management System\
   - Tech Stack: Python, Odoo, FastAPI, Docker, Kafka
   - Role: Python/Odoo Developer
   - Features: Sales workflow optimization, HR integration, real-time data processing
@@ -96,7 +92,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
      🔧 Problem Solving: Strong analytical and debugging skills 
     
 # 🎯 Interests & Hobbies
-Beyond coding, I enjoy: <br />
+### Beyond coding, I enjoy: <br />
     ♟️ Chess: Sharpening problem-solving skills <br />
     📚 Tech Blogs: Staying updated on AI and Data Science trends <br />
     🎬 Sci-Fi Movies: Exploring futuristic concepts for project inspiration <br />
@@ -109,10 +105,9 @@ Beyond coding, I enjoy: <br />
     🗣️ Natural Language Processing <br />
     ☁️ Cloud Computing and Scalable Architecture <br />
     🔄 MLOps and AI Engineering <br />
-
-🤝 Let's Connect!
+# 🤝 Let's Connect!
 I'm always open to collaboration, learning opportunities, and interesting projects. Feel free to reach out!
 - mailto:hoanglinhpm16@gmail.com
 - https://github.com/HoangLinh03-code
 
-⭐ "Passionate about turning data into insights and building intelligent solutions that make a difference!" ⭐
+# ⭐ "Passionate about turning data into insights and building intelligent solutions that make a difference!" ⭐
