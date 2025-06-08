@@ -106,8 +106,8 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   ☁️ Cloud Computing and Scalable Architecture <br />
   🔄 MLOps and AI Engineering <br />
 # 🤝 Let's Connect!
-I'm always open to collaboration, learning opportunities, and interesting projects. Feel free to reach out!
-- mailto:hoanglinhpm16@gmail.com
-- https://github.com/HoangLinh03-code
+### I'm always open to collaboration, learning opportunities, and interesting projects. Feel free to reach out!
+- mailto: hoanglinhpm16@gmail.com
+- Github: https://github.com/HoangLinh03-code
 
 ### ⭐ "Passionate about turning data into insights and building intelligent solutions that make a difference!" 
