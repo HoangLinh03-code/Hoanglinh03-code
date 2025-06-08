@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Hoàng Đức Linh
+### Hi there! 👋 I'm Hoàng Đức Linh
 
 # 🚀 Backend Developer | AI Enthusiast | Data Science Specialist
 Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong focus on Python development, data analysis, machine learning, and AI-driven solutions.
@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   🗣️ Languages: English (C1 Advanced - EF SET & TOEIC 815)\
   📍 Location: Hanoi, Vietnam\
   📧 Contact: hoanglinhpm16@gmail.com\
-  📱 Phone: 0974948130\
+  📱 Phone: 0974948130
 
 # 🎯 Goals
-- Near-term: Deepening expertise in Python development, focusing on data analysis, machine learning, deep learning, NLP, and backend development.
+- Near-term: Deepen expertise in Python development, with a focus on data analysis, data mining, machine learning, deep learning, fundamental natural language processing, and backend Python development.
 - Long-term: Specializing as a Python developer in Data Science, Data Engineering, and AI, leveraging advanced techniques to drive data-driven solutions and innovative applications.
 
 # 💼 Professional Experience
@@ -60,29 +60,29 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 
 # 🚀 Featured Projects
 
-🤖 Facial Recognition with YOLOv10 & FaceNet\
+🤖 Facial Recognition with YOLOv10 & FaceNet
   - Tech Stack: Python, Ultralytics, Wandb, OpenCV
   - Achievement: 79% accuracy in real-time facial recognition
   - Features: Low latency, real-time processing, performance monitoring
 
-📊 Mother & Baby Market Analysis\
+📊 Mother & Baby Market Analysis
   - Tech Stack: Python, Pandas, Matplotlib, Scikit-learn, Selenium
   - Achievement: 80% accuracy in demand forecasting
   - Impact: Strategic recommendations for store expansion and inventory optimization
 
-🎓 High School Grading System\
+🎓 High School Grading System
   - Tech Stack: Python, Imutils, Tkinter
   - Achievement: 30% improvement in grading speed
   - Impact: Reduced student wait times and enhanced satisfaction
 
-💼 TOP SIM - Enterprise Management System\
+💼 TOP SIM - Enterprise Management System
   - Tech Stack: Python, Odoo, FastAPI, Docker, Kafka
   - Role: Python/Odoo Developer
   - Features: Sales workflow optimization, HR integration, real-time data processing
 
 # 📊 GitHub Stats
 
- ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical) <br />
+ ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical) <br /> <br /> 
  ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
 
 # 🌟 Soft Skills <br />
@@ -110,4 +110,4 @@ I'm always open to collaboration, learning opportunities, and interesting projec
 - mailto:hoanglinhpm16@gmail.com
 - https://github.com/HoangLinh03-code
 
-# ⭐ "Passionate about turning data into insights and building intelligent solutions that make a difference!" ⭐
+### ⭐ "Passionate about turning data into insights and building intelligent solutions that make a difference!" ⭐
