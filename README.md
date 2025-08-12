@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   📱 Phone: 0974948130
 
 # 🎯 Goals
-- Near-term: Deepen expertise in Python development, with a focus on data analysis, data mining, machine learning, deep learning, fundamental natural language processing, and backend Python development.
-- Long-term: Specializing as a Python developer in Data Science, Data Engineering, and AI, leveraging advanced techniques to drive data-driven solutions and innovative applications.
+- Near-term: Strengthen expertise in Python development with a focus on data analysis, data mining, machine learning, deep learning, core natural language processing, and scalable backend systems — aiming to deliver efficient, maintainable, and high-performance solutions.
+- Long-term: Establish myself as a Python expert in Data Science, Data Engineering, and Artificial Intelligence, leveraging advanced algorithms, big data technologies, and automation to design innovative, data-driven products that create measurable business impact.
 
 # 💼 Professional Experience
 
@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   
 # 🎯 Interests & Hobbies
 ### Beyond coding, I enjoy: <br />
-  ♟️ Chess: Sharpening problem-solving skills <br />
+  🎮 Gaming: Enhancing strategic thinking and problem-solving skills <br />
   📚 Tech Blogs: Staying updated on AI and Data Science trends <br />
   🎬 Sci-Fi Movies: Exploring futuristic concepts for project inspiration <br />
   🏆 Hackathons: Participating in coding challenges and competitions <br />
