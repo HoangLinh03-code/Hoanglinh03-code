@@ -61,25 +61,22 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
 # 🚀 Featured Projects
 
 🤖 Facial Recognition with YOLOv10 & FaceNet
-  - Tech Stack: Python, Ultralytics, Wandb, OpenCV
-  - Achievement: 79% accuracy in real-time facial recognition
-  - Features: Low latency, real-time processing, performance monitoring
+  - Designed and implemented a real-time facial recognition model integrating YOLOv10 for detection and FaceNet for embedding, achieving 83% accuracy across varied lighting and pose conditions.
+  - Trained and fine-tuned the model using Ultralytics framework, with performance monitoring via Wandb to optimize hyperparameters and reduce overfitting.
+  - Collaborated on system integration, resulting in low-latency identification suitable for security applications.
+  - Deployed the program for end-user testing, ensuring efficient responsiveness and scalability.
 
-📊 Mother & Baby Market Analysis
-  - Tech Stack: Python, Pandas, Matplotlib, Scikit-learn, Selenium
-  - Achievement: 80% accuracy in demand forecasting
-  - Impact: Strategic recommendations for store expansion and inventory optimization
-
-🎓 High School Grading System
-  - Tech Stack: Python, Imutils, Tkinter
-  - Achievement: 30% improvement in grading speed
-  - Impact: Reduced student wait times and enhanced satisfaction
+📊 AI-Driven Market Analysis and Sales Optimization for Mother & Baby Products
+  - Led data crawling from online sources using Selenium, preprocessing with Pandas to create enriched datasets for market segmentation and demand forecasting.
+  - Developed a Random Forest Regressor model to predict import quantities, achieving 80% accuracy in inventory optimization and reducing potential overstock by 15-20%.
+  - Analyzed market trends with Matplotlib visualizations, delivering actionable insights for sales strategies, store expansion, and product positioning.
+  - Provided strategic recommendations on regional marketing and portfolio adjustments, enhancing decision-making for e-commerce platforms.
 
 💼 TOP SIM - Enterprise Management System
-  - Tech Stack: Python, Odoo, FastAPI, Docker, Kafka
-  - Role: Python/Odoo Developer
-  - Features: Sales workflow optimization, HR integration, real-time data processing
-
+  - Designed and optimized sales workflows in Odoo, including customer data management and revenue tracking, improving query performance by 20% for scalable operations.
+  - Integrated HR data for dynamic salary calculations, bonuses, and deductions, ensuring transparency and compliance with business requirements.
+  - Gathered and analyzed requirements from stakeholders, proposing technical solutions and iterating features through feedback loops.
+  - Deployed the system using Docker and Kafka for real-time data streaming, enhancing efficiency in enterprise management.
 # 📊 GitHub Stats
 
  ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical) <br /> <br /> 
