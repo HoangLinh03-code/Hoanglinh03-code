@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   📍 Location: Hanoi, Vietnam\
   📧 Contact: hoanglinhpm16@gmail.com\
   📱 Phone: 0974948130\
-  💼 Portfolio: https://hoang-linh-portfolio.vercel.app/ \
+  💼 Portfolio: https://hoang-linh-portfolio.vercel.app/ 
 
 # 🎯 Goals
 - Near-term: Strengthen expertise in Python development with a focus on data analysis, data mining, machine learning, deep learning, core natural language processing, and scalable backend systems — aiming to deliver efficient, maintainable, and high-performance solutions.
