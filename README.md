@@ -80,8 +80,8 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   - Deployed the system using Docker and Kafka for real-time data streaming, enhancing efficiency in enterprise management.
 # 📊 GitHub Stats
 
- ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=radical) <br /> <br /> 
- ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=radical)
+ ![alt_text](https://github-readme-stats.vercel.app/api?username=HoangLinh03-code&show_icons=true&theme=dracula) <br /> <br /> 
+ ![alt_text](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLinh03-code&layout=compact&theme=dracula)
 
 # 🌟 Soft Skills <br />
    💬 Communication: Excellent verbal and written communication <br />
