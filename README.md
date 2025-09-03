@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong f
   🌟 Certificate of Excellence recipient\
   🗣️ Languages: English (C1 Advanced - EF SET & TOEIC 815)\
   📍 Location: Hanoi, Vietnam\
-  📧 Contact: hoanglinhpm16@gmail.com\
   📱 Phone: 0974948130\
+  📧 Contact: hoanglinhpm16@gmail.com\
   💼 Portfolio: https://hoang-linh-portfolio.vercel.app/ 
 
 # 🎯 Goals
